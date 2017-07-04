@@ -9,7 +9,7 @@ In this project, I will use deep neural networks and convolutional neural networ
 
 A simulator has been provide dwhere user can steer a car around a track for data collection. I used image data and steering angles to train a neural network and then use this model to drive the car autonomously around the track. The traned model weights saved and can be downloaded as: [model5.h5](https://drive.google.com/open?id=0B7YmHsPqymnmNUhxZmtrYXh2azg)
 
-The simulator is also available to dowloaded here:
+The simulator is also available to dowload here:
 
 [Windows](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58ae4419_windows-sim/windows-sim.zip)
 
