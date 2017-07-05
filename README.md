@@ -6,7 +6,7 @@ Overview
 
 In this project, I will use deep neural networks and convolutional neural networks to clone driving behavior. I will train, validate and test a model using Keras. The model will output a steering angle to an autonomous vehicle.
 
-A simulator has been provide dwhere user can steer a car around a track for data collection. I used image data and steering angles to train a neural network and then use this model to drive the car autonomously around the track. The traned model weights saved and can be downloaded as: [model5.h5](https://drive.google.com/open?id=0B7YmHsPqymnmNUhxZmtrYXh2azg)
+A simulator has been provided where user can steer a car around a track for data collection. I used image data and steering angles to train a neural network and then use this model to drive the car autonomously around the track. The traned model weights saved and can be downloaded as: [model5.h5](https://drive.google.com/open?id=0B7YmHsPqymnmNUhxZmtrYXh2azg)
 
 The simulator is also available to dowload here:
 
